@@ -1,1 +1,1 @@
-#Educational website using html css and javascript
+#Educational website using html and css  
